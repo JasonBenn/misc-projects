@@ -1,0 +1,14 @@
+body {
+	background: url('mona-lisa.jpg') no-repeat center center;
+	background-size: cover;
+	position: relative;
+}
+
+.mustache {
+	position: absolute;
+	top: 100px;
+	left: 150px;
+	bottom: 0px;
+	right: 0px;
+	transition: all 0.1s;
+}
